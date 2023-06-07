@@ -15,4 +15,5 @@
 # How to secure API - xss-clean, express-rate-limit
 # Environment variable & .gitignore 
 # MVC Architecture
+# Connect MongoDB - mongodb, mongodb compass, mongodb Atlas, mongoose,
 
